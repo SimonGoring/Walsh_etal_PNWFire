@@ -37,7 +37,7 @@ ecozones <- readOGR('Maps/TerrestrialEcoregions_L3_Shapefile/NA_Terrestrial_Ecor
 
 ################################################################################
 
-#  All csv files are included in the suplemental ZIP file.
+#  All csv files are included in the supplement:
 cores <- list.files('data', full.names=TRUE)
 
 #  The files aren't quite formed correctly, so the column names are off by
