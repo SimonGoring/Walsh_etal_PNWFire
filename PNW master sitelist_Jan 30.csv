@@ -1,0 +1,35 @@
+GCDID,Site ID,Site Name,Peak Analysis,Lat,Long,Elev,geog_15km,elevation_500m,vegtype,foresttype
+256,1,Battle Ground Lake,Y,45.8,-122.492,154,inland,low,Forest,dry
+889,2,Beaver Lake,Y,44.918,-123.305,69,inland,low,Woodland,
+363,3,Boomerang Lake,N,49.18,-124.15,360,coastal,low,Forest,dry
+268,4,Cooley Lake,Y,49.492,-117.645,1515,inland,high,Forest,dry
+198,5,East Sooke Fen,N,48.352,-123.682,155,coastal,low,Forest,dry
+364,6,Enos Lake,N,49.28,-124.15,50,coastal,low,Forest,dry
+1170,7,Five Lakes,N,48.082,-118.929,780,inland,high,Woodland,
+52,8,Frozen Lake,Y,49.6,-121.466,1180,inland,high,Forest,wet
+1160,9,Lake Oswego,Y,45.411,-122.666,30,inland,low,Woodland,
+769,10,Little Lake,Y,44.168,-123.584,703,coastal,high,Forest,dry
+14,11,Lost Lake,Y,45.824,-123.579,449,coastal,low,Forest,wet
+54,12,Martins Lake,N,47.714,-123.54,1415,coastal,high,Forest,wet
+55,13,Moose Lake,N,47.883,-123.35,1508,coastal,high,Forest,wet
+53,14,Mount Barr Cirque,Y,49.266,-121.517,1376,inland,high,Forest,wet
+199,15,Pixie Lake,N,48.596,-124.197,70,coastal,low,Forest,wet
+201,16,Porphyry Lake,N,48.906,-123.833,1100,coastal,high,Forest,dry
+1161,17,Porter Lake,N,44.448,-123.243,73,inland,low,Woodland,
+269,18,Rockslide Lake,Y,49.55,-117.522,1539,inland,high,Forest,dry
+16,19,Taylor Lake OR,Y,46.101,-123.907,6,coastal,low,Forest,wet
+362,20,Turtle Lake,N,49.32,-124.95,80,coastal,low,Forest,wet
+202,21,Walker Lake,N,48.529,-124.002,950,coastal,high,Forest,wet
+1162,22,Warner Lake,Y,44.246,-122.958,590,inland,high,Forest,dry
+200,23,Whyac Lake,N,48.672,-124.844,15,coastal,low,Forest,wet
+1302,24,Yahoo Lake,Y,47.676564,-124.018172,717,coastal,high,Forest,wet
+1303,25,Wentworth,Y?,48.009867,-124.531084,47,coastal,low,Forest,wet
+1304,26,Panther,Y,48.65,-121.033333,1100,inland,high,Forest,wet
+1305,27,Mt Constitution C11,N,48.51,-122.8334,735,coastal,high,Forest,dry
+1306,28,Mt Constitution C32,N,48.515,-122.8333,735,coastal,high,Forest,dry
+1307,29,Mt Constitution C38,N,48.52,-122.8333,735,coastal,high,Forest,dry
+1904,34,Fish Lake,Y,48.616389,-119.701667,550,inland,low,Woodland,
+1902,32,Little Sunrise Lake,Y,46.923,-121.584,1698,inland,high,Forest,wet
+1901,31,Sunrise Lake,Y,46.92,-121.589,1748,inland,high,Forest,wet
+1900,30,Shadow Lake,Y,46.911,-121.657,1891,inland,high,Forest,wet
+1903,33,Tipsoo Pond,Y,46.867,-121.516,1630,inland,high,Forest,wet
