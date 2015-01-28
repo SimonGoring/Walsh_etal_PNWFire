@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.14635.svg)](http://dx.doi.org/10.5281/zenodo.14635)
+
 A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest
 ====================
 
