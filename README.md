@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.14635.svg)](http://dx.doi.org/10.5281/zenodo.14635)
 
-A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest
+A regional perspective on Holocene fire-climate-human interactions in the Pacific Northwest of North America
 ====================
 
 January 27, 2014
@@ -9,7 +9,7 @@ January 27, 2014
 
 This code-base accompanies the paper:
 
-Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. *Annals of the Association of American Geographers.* Accepted: AN-2014-0079
+Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. A regional perspective on Holocene fire-climate-human interactions in the Pacific Northwest of North America. *Annals of the Association of American Geographers.* Accepted: AN-2014-0079
 
 The code can be used to generate and replicate the fPCA analysis as performed in the paper.  This code-base includes raw data for the projects.  All files in the `data` folder are predicated with their Global Charcoal Database (GCD) code.  Some datasets are not yet accessioned to the GCD, but will (or should be) accessioned by the next major GCD release.  Metadata for sites is included in the file `PNW master sitelist_Jan 30.csv`.
 
